@@ -1,9 +1,9 @@
 # hello-world
 First Repository
-<styles>
+<style>
   .blue-text{
    color: Blue;
   }
-</styles>
+</style>
 <h1 class= "blue-text"> Introductions </h1>
 <p> Hi, Just someone who loves learning new things. Wish me luck </p>
