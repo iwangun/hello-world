@@ -2,7 +2,7 @@
 First Repository
 <styles>
   h1 {
-   Text-color: Blue
+   color: Blue;
   }
 </styles>
 <h1> Introductions </h1>
